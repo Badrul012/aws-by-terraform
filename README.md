@@ -1,3 +1,3 @@
 # aws-by-terraform
 
-![](aws-by-terraform/graph.pdf)
+[embed]https://github.com/Badrul012/aws-by-terraform/blob/master/graph.pdf[/embed]
